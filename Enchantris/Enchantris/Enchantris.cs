@@ -21,11 +21,6 @@ namespace Enchantris
             Content.RootDirectory = "Content";
         }
 
-        protected override void Initialize()
-        {
-            base.Initialize();
-        }
-    
         protected override void LoadContent()
         {
             // Create a new SpriteBatch, which can be used to draw textures.
